@@ -181,4 +181,16 @@ h2{
 .section-img{
     margin-top: -8px;
 }
-
+*{
+    box-sizing: border-box;
+}
+.glass{
+    width: 50%;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.glass img{
+    height: 500px;
+}
